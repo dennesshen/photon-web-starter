@@ -3,7 +3,6 @@
 #
 # Binaries for programs and plugins
 .idea/**
-go.sum
 *.exe
 *.exe~
 *.dll

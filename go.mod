@@ -1,9 +1,9 @@
-module photon-web-starter
+module github.com/dennesshen/photon-web-starter
 
 go 1.23.0
 
 require (
-	github.com/dennesshen/photon-core-starter v1.0.2
+	github.com/dennesshen/photon-core-starter v1.0.3
 	github.com/dlclark/regexp2 v1.11.4
 	github.com/go-playground/validator/v10 v10.22.1
 	github.com/gofiber/fiber/v2 v2.52.6

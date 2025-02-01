@@ -2,7 +2,7 @@ package webStarter
 
 import (
 	"github.com/dennesshen/photon-core-starter/core"
-	"photon-web-starter/server"
+	"github.com/dennesshen/photon-web-starter/server"
 )
 
 func init() {
